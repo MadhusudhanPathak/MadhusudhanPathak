@@ -1,33 +1,15 @@
 <div align="center">
 
 # Hi, I'm Madhusudhan Pathak (Myspy) 👋
-**An AI Safety Researcher, focused in Machine Ethics - Artificial Wisdom**
+## An AI Safety Researcher, focused in Machine Ethics, currently looking for a PhD.
+I spend most of my time somewhere along this chain, moving back and forth between the pieces rather than sitting still at one
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=AI+%E2%86%92+AI+Safety+%E2%86%92+Alignment+%E2%86%92+Value+Alignment;Value+Alignment+%E2%86%92+Machine+Ethics+%E2%86%92+Artificial+Wisdom)](https://github.com/MadhusudhanPathak)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Researcher+by+Passion%2C+Vibe+Coder+by+Necessity..!!)](https://github.com/MadhusudhanPathak)
-<br>
-
-[![Website](https://img.shields.io/badge/Website-myspy.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://myspy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MadMyspy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadMyspy/)
-[![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://madhusudhanpathak.substack.com/)
 
 </div>
 
 ---
-
-## About me
-
-Hey, I'm Madhusudhan — an AI Safety researcher currently looking for a PhD. I spend most of my time somewhere along this chain, moving back and forth between the pieces rather than sitting still at one:
-
-```mermaid
-flowchart LR
-    A[Artificial Intelligence] --> B[AI Safety]
-    B --> C[Alignment]
-    C --> D[Value Alignment]
-    D --> E[Machine Ethics]
-    E --> F[Artificial Wisdom]
-```
 
 A lot of alignment work asks *how* do we get a system to do what we want. Machine ethics pushes a step further and asks how to make machines understand what we want, specially our value system. I'm drawn to the question past that one: once a system can weigh competing values at all, what does it take for it to weigh them *wisely*, not just safely, not just correctly, but wisely? That's the thread running through most of what I read, write and think about.
 
@@ -50,6 +32,12 @@ So basically, I am mainly an AI Safety Researcher, who mostly vibe codes to make
 Sitting with a model for hours, trying to get it to actually build what I have in my head, gives you a different kind of intuition for prompt design, prompt engineering and agentic workflows (Claude Code skills included) than reading papers about alignment ever could. I've started thinking of my own tool-building as a small, running experiment, leading to foundational questions like, what does a model actually do when you hand it a goal and step back?
 
 ---
+<div align="center">
+    
+[![Website](https://img.shields.io/badge/Website-myspy.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://myspy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MadMyspy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadMyspy/)
+[![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://madhusudhanpathak.substack.com/)
+</div>
 <!---
 MadhusudhanPathak/MadhusudhanPathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
